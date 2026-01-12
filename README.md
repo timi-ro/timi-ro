@@ -59,10 +59,8 @@ I'm eager to explore **any tech stack** - Node.js, Python, Go, Java, Rust, or an
 
 🚀 **Open to any new and interesting opportunities - not afraid to start as a junior in unfamiliar stacks**
 
----
-
 <p align="center">
   <a href="https://buymeacoffee.com/ForetoldFatima">
-    <img src="https://media.giphy.com/media/7kZE0z52Sd9zSESzDA/giphy.gif" width="300" alt="Buy Me A Coffee">
+    <img src="assets/bmc-button.svg" width="150" alt="Buy Me A Coffee">
   </a>
 </p>
