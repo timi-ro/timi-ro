@@ -14,13 +14,10 @@ A **Backend Developer** with **7+ years of experience** building scalable system
 
 ## 🔧 What I Do
 
-✅ System architecture & scalable backend solutions
-💻 E-commerce platforms & shopping cart systems
-🧱 Legacy code modernization & refactoring
-⚡ Job queue processing & background tasks
-📦 Media upload validation & error handling
-🤖 Workflow automation with n8n
-✍️ Writing about AI & productivity on Medium
+✅ System architecture & scalable backend solutions<br>
+🧱 Legacy code modernization & refactoring<br>
+💻 E-commerce platforms & shopping cart systems<br>
+🤖 Workflow automation with n8n<br>
 
 ## 🛠 Tech Stack
 
@@ -48,12 +45,12 @@ I'm eager to explore **any tech stack** - Node.js, Python, Go, Java, Rust, or an
 
 ## ⚡ Fun Facts
 
-- 📝 I write about AI, tech, and productivity on Medium, including for **Write Your World** publication
-- 🤖 Passionate about using AI to enhance developer productivity
-- 🎯 I believe the best developers are eternal students
-- 💪🏻 Gym regular - building muscles and debugging code with equal dedication
-- 🧘🏻‍♀️ Pro meditator - finding bugs requires a calm mind
-- 📚 Love poetry, philosophy, and literature
+📝 I write about AI, tech, and productivity on Medium, including for **Write Your World** publication<br>
+🤖 Passionate about using AI to enhance developer productivity<br>
+🎯 I believe the best developers are eternal students<br>
+💪🏻 Gym regular - building muscles and debugging code with equal dedication<br>
+🧘🏻‍♀️ Pro meditator - finding bugs requires a calm mind<br>
+📚 Love poetry, philosophy, and literature<br>
 
 ---
 
