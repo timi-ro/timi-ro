@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Fatima 👋🏻</h1>
 
 <p align="center">
-  <a href="mailto:frostami.1988@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/frostami/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@foretoldfatima"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" /></a>
+  <a href="mailto:frostami.1988@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/frostami/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@foretoldfatima" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" /></a>
 </p>
 
 ---
@@ -12,14 +12,14 @@ A **Backend Developer** with **7+ years of experience** building scalable system
 
 **Always learning, always a junior** - I'm open to opportunities in any tech stack and ready to dive into new challenges.
 
-## 🔧 What I Do
+## 👩🏻‍💻 What I Do
 
 ✅ System architecture & scalable backend solutions<br>
 🧱 Legacy code modernization & refactoring<br>
 💻 E-commerce platforms & shopping cart systems<br>
 🤖 Workflow automation with n8n<br>
 
-## 🛠 Tech Stack
+## 👩🏻‍💼 Tech Stack
 
 **Backend**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -39,11 +39,11 @@ A **Backend Developer** with **7+ years of experience** building scalable system
 ![REST API](https://img.shields.io/badge/REST-009688?style=flat&logo=fastapi&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
-## 🌱 Open to Learning
+## 👩🏻‍🎓 Open to Learning
 
 I'm eager to explore **any tech stack** - Node.js, Python, Go, Java, Rust, or anything else. Experience taught me skills, but staying humble keeps me growing.
 
-## ⚡ Fun Facts
+## 👩🏻‍🎨 Fun Facts
 
 📝 I write about AI, tech, and productivity on Medium, including for **Write Your World** publication<br>
 🤖 Passionate about using AI to enhance developer productivity<br>
@@ -54,7 +54,7 @@ I'm eager to explore **any tech stack** - Node.js, Python, Go, Java, Rust, or an
 
 ---
 
-🚀 **Open to any new and interesting opportunities - not afraid to start as a junior in unfamiliar stacks**
+<span style="font-size: 2em;">👩🏼‍🎤</span> **Open to any new and interesting opportunities - not afraid to start as a junior in unfamiliar stacks**
 
 <p align="center">
   <a href="https://buymeacoffee.com/ForetoldFatima" target="_blank">
