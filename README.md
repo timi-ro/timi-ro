@@ -8,24 +8,34 @@
 
 ---
 
-A **Backend Developer** with **7+ years of experience** building scalable systems and modernizing legacy code. I specialize in clean architecture, e-commerce platforms, and helping businesses build maintainable solutions.
+A **Backend Engineer** building AI development skills through production-quality projects. Bridging **6+ years of backend engineering expertise** with the modern AI/ML stack (Python, LangChain, vector databases).
 
-**Always learning, always a junior** - I'm open to opportunities in any tech stack and ready to dive into new challenges.
+## 👩🏻‍💻 What I'm Building
 
-## 👩🏻‍💻 What I Do
-
+🤖 Open-source RAG system with LangChain + Ollama ([live on GitHub](https://github.com/timi-ro/rag-ollama-project))<br>
+🚧 In development: [Booking application API with Laravel](https://github.com/timi-ro/booking-app)<br>
+⚡ AI-powered workflow automation (SmartOps Copilot, N8N)<br>
+🔗 Intelligent APIs integrating LLM capabilities into backend services<br>
 ✅ System architecture & scalable backend solutions<br>
-🧱 Legacy code modernization & refactoring<br>
-💻 E-commerce platforms & shopping cart systems<br>
-🤖 Workflow automation with n8n<br>
 
-## 👩🏻‍💼 Tech Stack
+## 👩🏻‍💼 Foundation
+
+→ **6+ years backend:** PHP/Laravel/Symfony, API architecture, microservices<br>
+→ **Data engineering:** ETL pipelines, Snowflake, analytics infrastructure<br>
+→ **Team leadership:** Scrum Master<br>
+
+## 👩🏻‍🔧 Tech Stack
+
+**AI & Data**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 
 **Backend**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 **Frontend**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -38,19 +48,21 @@ A **Backend Developer** with **7+ years of experience** building scalable system
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-009688?style=flat&logo=fastapi&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
-## 👩🏻‍🎓 Open to Learning
+## 👩🏻‍🎓 Exploring Next
 
-I'm eager to explore **any tech stack** - Node.js, Python, Go, Java, Rust, or anything else. Experience taught me skills, but staying humble keeps me growing.
+Currently deepening AI/ML skills to complement my backend toolkit.
 
 ## 👩🏻‍🎨 Fun Facts
 
-📝 I write about AI, tech, and productivity on Medium, including for **Write Your World** publication<br>
+📝 I write about AI, tech, productivity and transformation on Medium, including for **Write Your World** publication<br>
 🤖 Passionate about using AI to enhance developer productivity<br>
 🎯 I believe the best developers are eternal students<br>
 💪🏻 Gym regular - building muscles and debugging code with equal dedication<br>
 🧘🏻‍♀️ Pro meditator - finding bugs requires a calm mind<br>
-📚 Love poetry, philosophy, and literature<br>
+📚 Love poetry, philosophy, psychology and literature<br>
 
 ---
 
